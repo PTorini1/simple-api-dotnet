@@ -1,2 +1,2 @@
 # simple-api-dotnet
-Simple project to study dotnet
+Simple project to study dotnet :-)
